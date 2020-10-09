@@ -1,0 +1,14 @@
+{
+    "name": "root",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "app:build": "npm run --prefix app build",
+        "app:dev": "npm run --prefix app dev",
+        "components:build": "npm run --prefix components build",
+        "components:start": "npm run --prefix components start"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

@@ -1,0 +1,8 @@
+{
+  "eslint.validate": [ "typescript" ],
+  "eslint.workingDirectories": ["app", "components"],
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+  "files.associations": { "*.json": "jsonc", "package.json": "json" }
+}
